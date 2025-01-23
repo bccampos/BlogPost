@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bruno.Prosigliere.Domain/bin/Debug/net8.0
+/.vs
+/bruno.Prosigliere.Application/bin/Debug/net8.0
+/bruno.Prosigliere.Application/obj
+/bruno.Prosigliere.Application.Tests/bin
+/bruno.Prosigliere.Application.Tests/obj
+/bruno.Prosigliere.Domain/obj
+/bruno.Prosigliere.Domain.Tests/bin
+/bruno.Prosigliere.Domain.Tests/obj
+/bruno.Prosigliere.Infrastructure/bin/Debug/net8.0
+/bruno.Prosigliere.Infrastructure/obj
