@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bruno.Prosigliere.Domain.Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bruno.Prosigliere.WebAPI", "bruno.Prosigliere.WebAPI\bruno.Prosigliere.WebAPI.csproj", "{13669542-944F-4C4D-95A6-CDBF2C5291EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bruno.WebAPI", "bruno.WebAPI\bruno.WebAPI.csproj", "{DA0DE2DA-1319-43C9-B1D7-3065664CD6A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{13669542-944F-4C4D-95A6-CDBF2C5291EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13669542-944F-4C4D-95A6-CDBF2C5291EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13669542-944F-4C4D-95A6-CDBF2C5291EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0DE2DA-1319-43C9-B1D7-3065664CD6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0DE2DA-1319-43C9-B1D7-3065664CD6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0DE2DA-1319-43C9-B1D7-3065664CD6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0DE2DA-1319-43C9-B1D7-3065664CD6A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
