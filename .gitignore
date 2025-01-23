@@ -13,3 +13,5 @@
 /bruno.Prosigliere.Domain.Tests/obj
 /bruno.Prosigliere.Infrastructure/bin/Debug/net8.0
 /bruno.Prosigliere.Infrastructure/obj
+/bruno.Prosigliere.WebAPI/bruno.Prosigliere.WebAPI.csproj
+/bruno.WebAPI/obj
