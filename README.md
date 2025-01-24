@@ -22,17 +22,17 @@ Open the solution and build the application. After the successful build run, you
 -	.NET 8 / Mapster / XUnit 
 -	Using CQRS & MediatR following Clean Architecture & DDD 
 
-![image](https://github.com/user-attachments/assets/6900a414-299f-4b77-806f-54c7f772f7c0)
+![image](https://github.com/user-attachments/assets/1a9cb896-6c4f-469d-b956-819a478ec19c)
 
 ### Application  
 - `Application`: Commands e Command Handler / Queries
   
-![image](https://github.com/user-attachments/assets/5c4cece3-d845-4776-83be-f6212cc0dd8e)
+![image](https://github.com/user-attachments/assets/904a7264-e2bd-4f03-8e34-54f3ebc5d9bf)
 
 ### Domain / Business Rules 
 - `Domain`: Entities / Value Objects / Interfaces
   
-![image](https://github.com/user-attachments/assets/3bc93542-14f4-4691-b11e-8c7ea2a93d14)
+![image](https://github.com/user-attachments/assets/cec4c8fa-5854-4e44-a674-74d5774c83e2)
 
 ### Infrastructure
 - `Infrastructure`: Fake Repository
@@ -45,12 +45,13 @@ Open the solution and build the application. After the successful build run, you
 ![image](https://github.com/user-attachments/assets/843ddcc1-fdd4-4d02-b240-9389ebbf29d0)
 
 # Fake BlogPost Data (Default List)
-![image](https://github.com/user-attachments/assets/47e3c6f7-d3ab-4a63-a31c-3ea4aaf1b1e8)
+![image](https://github.com/user-attachments/assets/a4501be9-85b4-4749-9963-0ce9bb921cb9)
 
 # Tests cover some rules requirements 
 -	ApplicationTests / DomainTests 
 
-![image](https://github.com/user-attachments/assets/93dac44a-cea3-475f-836d-163b0be4e276)
+![image](https://github.com/user-attachments/assets/35c99a72-e70d-4fa4-8fb2-e4b4add73555)
+
 
 # Improvements 
 ### New Layer
