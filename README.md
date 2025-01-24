@@ -16,7 +16,7 @@ post.
 
 ## How to use and run the project
 
-Open the solution and build the application. After the successful build run, you can run bruno.Prosigliere.WebAPI
+Open the solution and build the application. After the successful build run, you can run bruno.WebAPI
 
 # Solution
 -	.NET 8 / Mapster / XUnit 
