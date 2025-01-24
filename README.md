@@ -37,15 +37,16 @@ Open the solution and build the application. After the successful build run, you
 ### Infrastructure
 - `Infrastructure`: Fake Repository
 
-![image](https://github.com/user-attachments/assets/fd8885b5-ae84-4e08-ac56-e7d2d3485569)
+![image](https://github.com/user-attachments/assets/a4501be9-85b4-4749-9963-0ce9bb921cb9)
 
 # Swagger UI 
-![image](https://github.com/user-attachments/assets/b3e2159b-8cc9-494e-9f12-1d07f74812bf)
+![image](https://github.com/user-attachments/assets/bf234ae2-18cf-4152-a2c9-f8d2e6b68766)
 
-![image](https://github.com/user-attachments/assets/843ddcc1-fdd4-4d02-b240-9389ebbf29d0)
+![image](https://github.com/user-attachments/assets/467eb733-3fbf-4f6d-b439-a90247378a46)
 
 # Fake BlogPost Data (Default List)
-![image](https://github.com/user-attachments/assets/a4501be9-85b4-4749-9963-0ce9bb921cb9)
+![image](https://github.com/user-attachments/assets/f29e3c0b-6e5c-476c-a89c-d2c138ac9ef5)
+
 
 # Tests cover some rules requirements 
 -	ApplicationTests / DomainTests 
